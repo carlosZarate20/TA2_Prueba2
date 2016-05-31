@@ -1,0 +1,35 @@
+﻿@model TA2_GRUD.ViewModel.LstPersonaViewModel
+@{
+    ViewBag.Title = "LstPersona";
+    Layout = null;
+}
+
+
+<table class="table table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>DNI</th>
+            <th>Edad</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.LstPersona)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Apellido</td>
+                <td>@item.DNI</td>
+                <td>@item.Edad</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-default" href="@Url.Action("Registrar")">
+    <i class="fa fa-plus"></i> Agregar
+</a>
+

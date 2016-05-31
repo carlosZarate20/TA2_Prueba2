@@ -1,0 +1,148 @@
+D:\TA2_GRUD\TA2_GRUD\bin\TA2_GRUD.dll.config
+D:\TA2_GRUD\TA2_GRUD\bin\TA2_GRUD.dll
+D:\TA2_GRUD\TA2_GRUD\bin\TA2_GRUD.pdb
+D:\TA2_GRUD\TA2_GRUD\bin\Antlr3.Runtime.dll
+D:\TA2_GRUD\TA2_GRUD\bin\EntityFramework.dll
+D:\TA2_GRUD\TA2_GRUD\bin\EntityFramework.SqlServer.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Google.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Newtonsoft.Json.dll
+D:\TA2_GRUD\TA2_GRUD\bin\Owin.dll
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.Helpers.dll
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.Mvc.dll
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.Optimization.dll
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.Razor.dll
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.Deployment.dll
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.dll
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.Razor.dll
+D:\TA2_GRUD\TA2_GRUD\bin\WebGrease.dll
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.Helpers.xml
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.Mvc.xml
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.Optimization.xml
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.Razor.xml
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.xml
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.Deployment.xml
+D:\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.Razor.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Newtonsoft.Json.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Antlr3.Runtime.pdb
+D:\TA2_GRUD\TA2_GRUD\bin\EntityFramework.xml
+D:\TA2_GRUD\TA2_GRUD\bin\EntityFramework.SqlServer.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Google.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TA2_GRUD\TA2_GRUD\bin\es\System.Web.Helpers.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\System.Web.Mvc.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\System.Web.Optimization.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\System.Web.Razor.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\System.Web.WebPages.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\EntityFramework.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\EntityFramework.SqlServer.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\TA2_GRUD\TA2_GRUD\obj\Debug\TA2_GRUD.csprojResolveAssemblyReference.cache
+D:\TA2_GRUD\TA2_GRUD\obj\Debug\TA2_GRUD.dll
+D:\TA2_GRUD\TA2_GRUD\obj\Debug\TA2_GRUD.pdb
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\TA2_GRUD.dll.config
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\TA2_GRUD.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\TA2_GRUD.pdb
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Antlr3.Runtime.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\EntityFramework.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\EntityFramework.SqlServer.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.Core.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Cookies.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Facebook.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Google.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.OAuth.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Twitter.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Newtonsoft.Json.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Owin.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.Helpers.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.Mvc.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.Optimization.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.Razor.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.Deployment.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.Razor.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\WebGrease.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.Helpers.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.Mvc.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.Optimization.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.Razor.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.Deployment.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\System.Web.WebPages.Razor.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Newtonsoft.Json.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Antlr3.Runtime.pdb
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\EntityFramework.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\EntityFramework.SqlServer.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.Core.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Facebook.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Cookies.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.OAuth.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Google.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.Twitter.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\System.Web.Helpers.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\System.Web.Mvc.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\System.Web.Optimization.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\System.Web.Razor.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\System.Web.WebPages.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\EntityFramework.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\EntityFramework.SqlServer.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\obj\Debug\TA2_GRUD.csprojResolveAssemblyReference.cache
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\obj\Debug\TA2_GRUD.dll
+D:\universidad\ciclo 07\Evolucion de software\TA2_GRUD\TA2_GRUD\TA2_GRUD\TA2_GRUD\obj\Debug\TA2_GRUD.pdb

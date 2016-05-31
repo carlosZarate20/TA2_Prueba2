@@ -1,0 +1,45 @@
+﻿@model TA2_GRUD.ViewModel.RegistrarViewModel
+@{
+    ViewBag.Title = "Registrar";
+    Layout = null;
+}
+
+<form role="form" method="post">
+
+    @Html.HiddenFor(X => X.PersonaId)
+
+    <div class="form-group">
+        <label>Nombre:</label>
+        @Html.TextBoxFor(X => X.Nombre)
+    </div>
+    <div class="form-group">
+        <label>Apellidos:</label>
+        @Html.TextBoxFor(X => X.Apellido)
+    </div>
+    <div class="form-group">
+        <label>DNI:</label>
+        @Html.TextBoxFor(X => X.DNI)
+    </div>
+    <div class="form-group">
+        <label>Edad:</label>
+        @Html.TextBoxFor(X => X.Edad)
+    </div>
+    
+   
+
+    @if (TempData["Mensaje"] != null)
+    {
+        <div>
+            <div class="validation-summary-errors">@TempData["Mensaje"]</div>
+        </div>
+    }
+
+
+
+    <button type="submit" class="btn btn-default" onclick="return confirm('Desea Registrar')">Registrar</button>
+
+
+    <a href="@Url.Action("LstPersona", "Home")" class="btn btn-default">Cancelar</a>
+
+</form>
+
